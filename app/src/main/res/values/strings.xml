@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMI App</string>
+    <string name="under_wt">UnderWeight</string>
+    <string name="healthy">Healthy</string>
+    <string name="obesity">Obesity</string>
+    <string name="over_wt">OverWeight</string>
+    <dimen name="margin">25dp</dimen>
+    <dimen name="txt_size">25sp</dimen>
+
+</resources>
